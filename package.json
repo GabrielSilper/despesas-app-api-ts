@@ -1,0 +1,11 @@
+{
+  "name": "despesas-app-api-ts",
+  "version": "1.0.0",
+  "description": "api da minha aplicação despesas app agora em TypeScript.",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Silper",
+  "license": "ISC"
+}
