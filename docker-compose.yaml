@@ -19,7 +19,7 @@ services:
       - DB_NAME=despesas_app
       - DB_USER=root
       - DB_PASSWORD=password
-      - SERVER_PORT=3011
+      - SERVER_PORT=3001
       - JWT_SECRET=façoUmaQuandoUsarORailway
     volumes:
       - ./:/usr/app
