@@ -26,7 +26,7 @@ Eu vou levantar os possíveis requisitos funcionais.
 
 1. TypeScript;
 1. Express;
-1. ORM - Sequelize;
+1. ORM - TypeORM;
     - Dialeto: MySQL;
     - MySQL2;
 3. JWT;
